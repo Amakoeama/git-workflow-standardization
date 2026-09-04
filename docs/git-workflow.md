@@ -1,5 +1,7 @@
 # Git Workflow and Contribution Guidelines
 
+**Repository:** https://github.com/Amakoeama/git-workflow-standardization
+
 ## 1. Workflow Model
 
 This repository uses the Feature Branch Workflow to support reliable integration and Continuous Integration (CI).
